@@ -5,7 +5,7 @@ A LAN bases non-GUI IM Service
 
 
 THIS IS STILL IN BETA
-*please email ideas or concerns jarred@jb-tec.com*
+
 
                   ___           ___           ___     
       ___        /\__\         /\  \         /\  \    
